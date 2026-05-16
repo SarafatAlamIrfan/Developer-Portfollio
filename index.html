@@ -873,9 +873,9 @@
             submitBtn.textContent = 'Sending...';
             submitBtn.style.opacity = '0.7';
 
-            // --- Use Own Formspree link here for Fetch ---
+            // --- Use Own Formspree API here for Fetch ---
             try {
-                const response = await fetch(" --------------------------- ", {
+                const response = await fetch(" YOUR_ENDPOINT_HERE ", {
                     method: "POST",
                     body: formData,
                     headers: { 'Accept': 'application/json' }
