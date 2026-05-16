@@ -15,6 +15,7 @@
 - **Modern UI/UX:** Built with a premium 3D glassmorphism aesthetic and smooth scroll animations.
 - **Fully Responsive:** Flawless layout scaling across desktop, tablet, and mobile displays.
 - **Dark/Light Mode:** Seamless theme toggling with automatic user preference detection.
+- **Functional Contact Form:** Serverless email integration using Formspree to handle inquiries directly from the static frontend.
 - **Dynamic Interactive Elements:** Features a custom JavaScript-rendered animated canvas favicon.
 - **High-Performance:** Lightweight, zero-dependency architecture ensuring lightning-fast load times.
 
@@ -24,6 +25,7 @@
 - **Interactivity:** Vanilla JavaScript (ES6+)
 - **Deployment & Hosting:** Cloudflare Pages
 - **Typography:** Google Fonts (Display)
+- **Form Handling:** Formspree API
 - **Icons:** FontAwesome
 
 
