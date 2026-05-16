@@ -57,9 +57,11 @@ To run this project locally on your machine:
 
     Replace the images in the image/ folder with your own.
 
+    **Note on Contact Form:** The contact form is powered by Formspree. Remember to create your own free Formspree account and replace the `await fetch(" YOUR_ENDPOINT_HERE "` link in the HTML form with your own endpoint so you receive the emails!
+
     Deploy for free using Cloudflare Pages, Netlify, or GitHub Pages!
 
-    (A star ⭐ on the repository is always appreciated if you found it helpful!)
+   (A star ⭐ on the repository is always appreciated if you found it helpful!)
 
 ## 📫 Connect With Me
     Website: sarafat.pages.dev
