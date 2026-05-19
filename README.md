@@ -64,9 +64,9 @@ To run this project locally on your machine:
    (A star ⭐ on the repository is always appreciated if you found it helpful!)
 
 ## 📫 Connect With Me
-   Website: sarafat.pages.dev
+   Website: https://sarafat.pages.dev/
 
-   LinkedIn: linkedin.com/in/sarafatalamirfan
+   LinkedIn: https://linkedin.com/in/sarafatalamirfan
 
 ## 📄 License
     This project is licensed under the MIT License - see the LICENSE file for details.
