@@ -23,7 +23,7 @@
 
 - **Markup & Styling:** HTML5, Tailwind CSS
 - **Interactivity:** Vanilla JavaScript (ES6+)
-- **Deployment & Hosting:** Cloudflare Pages
+- **Deployment & Hosting:** Cloudflare Pages (You can use Netlify/Vercel)
 - **Typography:** Google Fonts (Display)
 - **Form Handling:** Formspree API
 - **Icons:** FontAwesome
